@@ -1,1 +1,29 @@
+cff-version: 1.2.0
+title: "Astrometrica on Apple Silicon macOS for Asteroid Search: Installation, Validation, and Workflow"
+message: "If you use this workflow, please cite it using the metadata below."
+type: report
 
+authors:
+  - family-names: Ratnam
+    given-names: Aditya Rajiv
+    orcid: "https://orcid.org/0009-0008-8354-1756"
+    affiliation: "National Academy for Learning, Bengaluru, India"
+
+doi: 10.5281/zenodo.21153650
+
+date-released: 2026-07-03
+
+repository-code: "https://github.com/adityaratnam09/astrometrica-apple-silicon"
+
+license: "CC-BY-4.0"
+
+keywords:
+  - Astrometrica
+  - Apple Silicon
+  - macOS
+  - Rosetta 2
+  - Wine
+  - Sikarugir
+  - Astrometry
+  - Minor Planet Center
+  - International Astronomical Search Collaboration
