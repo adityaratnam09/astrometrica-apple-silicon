@@ -16,8 +16,8 @@ Ratnam, A. R. (2026). *Astrometrica on Apple Silicon macOS for Asteroid Search: 
 ## Features
 - Complete installation instructions for macOS
 - Troubleshooting guide
-- Full IASC workflow validation
+- Full IASC workflow validation including Configuration, Plate solving, Blink comparison, Candidate detection and MPC report generation
 - Tested on macOS 15.7.4 + M1
 
 ## License
-This work is licensed under GNU General Public License v3.0. 
+This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
