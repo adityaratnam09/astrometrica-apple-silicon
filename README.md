@@ -8,6 +8,14 @@ Astrometrica is a legacy Windows application widely used for asteroid detection 
 
 The workflow has been independently verified with official IASC practice image sets.
 
+## Screenshot
+
+<p align="center">
+  <img src="images/new object id.JPG" alt="Astrometrica running on Apple Silicon macOS" width="800">
+</p>
+
+*Astrometrica running successfully on an Apple Silicon Mac using Sikarugir and Rosetta 2.*
+
 ## Citation
 
 If you use this guide, please cite:
