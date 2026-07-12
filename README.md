@@ -22,11 +22,6 @@ If you use this guide, please cite:
 
 **Ratnam, A. R.** (2026). *Astrometrica on Apple Silicon macOS for Asteroid Search: Installation, Validation, and Workflow*. Zenodo. https://doi.org/10.5281/zenodo.21153650
 
-## Technical Report
-**[Full Technical Report (PDF)](https://zenodo.org/records/21153650/files/Astrometrica_on_Mac.pdf)** (via Zenodo)
-
-
-
 ## Features
 - Complete installation & configuration for Apple Silicon
 - Detailed troubleshooting for common issues
